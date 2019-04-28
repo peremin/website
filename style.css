@@ -19,6 +19,10 @@ h3 {
     color: #0061AC;
 }
 
+p, ul, table {
+    color: #0F98DC;
+}
+
 img {
     max-block-size: 30%;
 }
